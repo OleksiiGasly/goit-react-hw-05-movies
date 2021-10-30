@@ -1,0 +1,13 @@
+.emptyReviews {
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.reviewsList {
+  list-style: none;
+}
+
+.review {
+  text-indent: 14px;
+}

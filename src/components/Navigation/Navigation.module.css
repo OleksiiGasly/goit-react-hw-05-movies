@@ -1,0 +1,16 @@
+.header {
+  margin: 30px;
+  background-color: navajowhite;
+}
+
+.link {
+  color: black;
+  font-size: 44px;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 30px;
+}
+
+.activeLink {
+  color: navy;
+}

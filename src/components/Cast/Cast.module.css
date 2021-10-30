@@ -1,0 +1,25 @@
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  background-color: whitesmoke;
+}
+
+.actor {
+  margin: 20px;
+  width: 180px;
+}
+
+.name {
+  margin: 0px;
+}
+
+.character {
+  margin: 0px;
+  font-weight: 500;
+  width: 90%;
+}
+
+img {
+  width: 180px;
+}

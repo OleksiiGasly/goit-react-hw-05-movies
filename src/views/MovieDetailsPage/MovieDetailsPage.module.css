@@ -1,0 +1,50 @@
+.wrapper {
+  margin: 30px;
+}
+
+.infoWrapper {
+  display: flex;
+  justify-content: space-around;
+  background-color: navajowhite;
+}
+
+.button {
+  margin-left: 50px;
+  padding: 6px;
+  width: 160px;
+  height: 55px;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 4px;
+  background-color: navy;
+  color: navajowhite;
+  border-style: none;
+}
+
+.button:hover {
+  cursor: pointer;
+  color: whitesmoke;
+  background-color: cornflowerblue;
+}
+
+.info {
+  margin-left: 20px;
+}
+
+.links {
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+.links:hover {
+  color: cornflowerblue;
+}
+
+.list {
+  list-style: none;
+}
+
+.activeLink {
+  color: navy;
+}
