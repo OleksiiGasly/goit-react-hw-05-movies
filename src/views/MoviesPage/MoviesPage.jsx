@@ -12,7 +12,7 @@ export default function MoviesPage() {
   const data = new URLSearchParams(location.search).get('query');
 
   function handleInputChange(e) {
-    setInputvalue(e.currentTarget.value.trim());
+    setInputvalue(e.currentTarget.value);
   }
 
   function handleMovieSearch(e) {
